@@ -4,6 +4,7 @@
 - 📫 ✨Notable projects✨ include:
   * [p+q Sieve](https://github.com/alialdakheel/pq_sieve): Integer factoring algorithm
   * [Pharec](https://github.com/Pharec): (Phishing Automatic Recognition) using computer vision technology
+  * [ptaint](https://github.com/alialdakheel/pq_sieve): End result (output) oriented taint analysis (inspired by game theory concepts)
 
 - 🌱 I’m currently learning: FHE, NFTs
 - 💞️ How to reach me: search in linkedin :sweat_smile:
